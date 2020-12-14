@@ -3,4 +3,6 @@
 
 hello world
 
+class Person(){};
+
 #endif
